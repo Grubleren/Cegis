@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cegis Type 0006</string>
+    <string name="action_settings">Settings</string>
+    <string name="noData">- - -</string>
+    <string name="reset">Reset</string>
+    <string name="pc">P/C</string>
+    <string name="las">LAS</string>
+    <string name="leq">LAeq</string>
+    <string name="lamax">LAmax</string>
+    <string name="lcp">LCpk</string>
+    <string name="cpb1">CPB1</string>
+    <string name="start">Start</string>
+    <string name="navg">FFT averaging</string>
+    <string name="gain">Gain (dB)</string>
+    
+</resources>
