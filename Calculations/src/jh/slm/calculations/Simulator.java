@@ -1,7 +1,5 @@
-package jh.slm.commonclasses;
+package jh.slm.calculations;
 
-import jh.slm.calculations.Allocator;
-import jh.slm.calculations.Random;
 import jh.slm.interfaces.ISoundCard;
 
 public class Simulator implements ISoundCard{

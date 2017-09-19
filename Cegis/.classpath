@@ -9,7 +9,6 @@
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
 	<classpathentry exported="true" kind="src" path="/Interfaces"/>
-	<classpathentry exported="true" kind="src" path="/CommonClasses"/>
 	<classpathentry exported="true" kind="src" path="/Calculations"/>
 	<classpathentry kind="src" path="gen"/>
 	<classpathentry kind="output" path="bin/classes"/>

@@ -1,21 +1,5 @@
-package jh.slm.commonclasses;
+package jh.slm.calculations;
 
-import jh.slm.calculations.AWeighting;
-import jh.slm.calculations.CPBFilterbank;
-import jh.slm.calculations.CWeighting;
-import jh.slm.calculations.FFTClass;
-import jh.slm.calculations.LeqDetector;
-import jh.slm.calculations.LeqDetectorBank;
-import jh.slm.calculations.OctaveFilterType;
-import jh.slm.calculations.PeakDetector;
-import jh.slm.calculations.PeakDetectorBank;
-import jh.slm.calculations.RMSDetector;
-import jh.slm.calculations.RMSDetectorBank;
-import jh.slm.calculations.Resampling2000;
-import jh.slm.calculations.Resampling16_75;
-import jh.slm.calculations.Squarer;
-import jh.slm.calculations.SquarerBank;
-import jh.slm.calculations.StatisticsDetector;
 import jh.slm.interfaces.ILANCom;
 import jh.slm.interfaces.ISoundCard;
 
